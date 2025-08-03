@@ -1,6 +1,6 @@
 # 🍔 Food Ordering App : React🚀
 
-### watched till Episode 5 (50min)
+### watched till Episode 5 - (50min)
 
 ## 🔄 Import/Export Types in JavaScript
 
