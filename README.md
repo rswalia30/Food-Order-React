@@ -2,6 +2,35 @@
 
 ### watched till Episode 5 - (50min)
 
+### Steps to Clone the repo
+
+- Clone the repo.
+- cd project path.
+- npm i
+- npm i -D parcel
+- npm i react
+- npm i react-dom
+
+### Sync remote branch with local branch
+
+- Fetch remote changes
+
+```git
+git fetch origin
+```
+
+- Show all branches
+
+```git
+git branch -a
+```
+
+- Switch to desired branch
+
+```git
+git checkout onState
+```
+
 ## 🔄 Import/Export Types in JavaScript
 
 JavaScript (ES6) modules support two types of exports:
