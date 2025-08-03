@@ -1,5 +1,7 @@
 # 🍔 Food Ordering App : React🚀
 
+### watched till Episode 5 (50min)
+
 ## 🔄 Import/Export Types in JavaScript
 
 JavaScript (ES6) modules support two types of exports:
@@ -26,5 +28,3 @@ export const LOGO_CDN = "https://cdn.example.com/logo.png";
 
 import { LOGO_CDN } from "../utils/constants";
 ```
-
-# watched till Episode 5 (50min)
