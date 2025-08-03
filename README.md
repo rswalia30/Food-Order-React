@@ -1,15 +1,30 @@
-# Food Ordering App : Ep5 , 50min
+# 🍔 Food Ordering App : React🚀
 
-There are two types of import/export
-1 - default : return single value
-2 - named : return multiple values
+## 🔄 Import/Export Types in JavaScript
 
-## Default
+JavaScript (ES6) modules support two types of exports:
 
+### 1️⃣ Default Export
+
+- **Use case**: When a module only exports a **single value**, function, or class.
+- **Syntax**:
+
+```js
 export default Header;
+
 import Header from "./Components/Header";
+```
 
-## Named
+### 2️⃣ Named Export
 
-export const LOGO_CDN
+- **Use case**: When a module exports **multiple values** such as constants, functions, or variables.
+
+- **Syntax**:
+
+```js
+export const LOGO_CDN = "https://cdn.example.com/logo.png";
+
 import { LOGO_CDN } from "../utils/constants";
+```
+
+# watched till Episode 5 (50min)
